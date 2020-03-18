@@ -1,0 +1,2 @@
+The server uses TCP/IP protocols for the socket as well as
+HTTP 1.1
